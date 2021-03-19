@@ -8,7 +8,7 @@
 
 ## How to Play
 * When you run the File, The Game starts automatically.
-* use the arrow keys to (Not on the Number Pad!!)
+* use the arrow keys to play (Not on the Number Pad!!)
 * arrow key up = The Block rotate
 * arrow key down = The Block go down
 * arrow key left = The Block went left
