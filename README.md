@@ -1,13 +1,10 @@
 # Tetris_Kev
 
 ## How to Use
-* Download [PyCharm](https://www.jetbrains.com/de-de/pycharm/) or other Python Editors. 
-* Download the Files from this [Website](https://github.com/Kevin123456789-1/Tetris_Kev).
-* Download package [PyGame](https://www.pygame.org/) via 'pip install pygame' in a editor like 'command prompt'.
-* The Package Random is already installed.
-* Open the Folder in your Python Editor.
-* Start The file Tetris.py in your Python Editor
-* Run The file and have Fun!
+* Download [Python3](https://python.org).
+* Download the [Source-code](https://github.com/Kevin123456789-1/Tetris_Kev).
+* Open Terminal and install pygame using `pip install pygame`.
+* Open Terminal in the program location and type `python3 tetris.py`
 
 ## How to Play
 * When you run the File, The Game starts automatically.
